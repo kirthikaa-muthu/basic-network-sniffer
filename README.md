@@ -121,3 +121,21 @@ Possible improvements include:
 - Add packet statistics
 - Add command-line arguments
 - Improve packet capture/export functionality
+
+## 📸 Screenshots
+
+### Network Sniffer Output
+
+![Network Sniffer Output](screenshots/files_of_networksniffer.jpeg)
+
+### Wireshark Analysis
+
+![Wireshark Analysis](screenshots/Wireshark_Analysis.jpeg)
+
+### Wireshark Overview
+
+![Wireshark Overview](screenshots/Wireshark_Overview.jpeg)
+
+### HTTP Response
+
+![HTTP Response](screenshots/HTTP_Response.jpeg)
